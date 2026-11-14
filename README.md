@@ -5,7 +5,7 @@ I am a fifth-semester student of Computer Science and Systems Engineering at the
 ### 🛠️ Tech Stack
 - **Programming Languages:** C++, Java, C#, Python, PHP
 - **Web Development & Frameworks:** HTML, CSS, JavaScript, ASP.NET Core
-- **Databases & Tools:** MySQL, Git, VS Code, IntelliJ IDEA, NetBeans
+- **Databases & Tools:** SQL Server, Git, VS Code, IntelliJ IDEA, NetBeans, Hive Impala, Qt, Dbeaver
 
 ### 📫 How to reach me
 - 📧 Email: riverajonathan332@gmail.com
