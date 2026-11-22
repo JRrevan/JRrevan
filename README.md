@@ -11,6 +11,10 @@ I am a sixth-semester student of Computer Science and Systems Engineering at the
 - **Web Development & Frameworks:** HTML, CSS, JavaScript, ASP.NET Core
 - **Databases & Tools:** SQL Server, Git, VS Code, IntelliJ IDEA, NetBeans, Hive Impala, Qt, Dbeaver
 
+### 🚀 Featured Projects
+- **[Biblioteca]([https://github.com/JRrevan/TU-REPO](https://github.com/JRrevan/SISTEMA-WEB-DE-GESTION-DE-BIBLIOTECA))** – Full-stack library management system in C# (.NET) featuring custom AVL trees, linked lists, and automated Graphviz `.dot` visualizations.
+
+
 ### 📫 How to reach me
 - 📧 Email: riverajonathan332@gmail.com
 - 💼 LinkedIn: [Jonathan Rivera](https://www.linkedin.com/in/jonathan-rivera-luna-010b63253)
